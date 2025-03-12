@@ -11,6 +11,10 @@
 
 Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
 
+### 🎨 Protótipo:
+
+O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6" target="_blank">Figma</a>
+
 ### 🛠️ Tecnologias
 
 - **React 18.3.1** • Biblioteca para construção de interfaces declarativas.
@@ -33,9 +37,6 @@ Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na for
 
 - 👏🏻 Aplaudir comentários
 
-### 🎨 Protótipo:
-
-O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6" target="_blank">Figma</a>
 
 ## 🚀 Rodando o Projeto
 
