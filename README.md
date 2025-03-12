@@ -1,4 +1,4 @@
-<h1 align="center">Ignite Feed</h1>
+<h1 align="center">Ignite Feed 🚀</h1>
 <br>
 
 <p align="center">
@@ -37,8 +37,7 @@ Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na for
 
 ### 🎨 Protótipo:
 
-O protótipo do projeto pode ser acessado em:
-🔗 [https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6]
+O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6" target="_blank">Figma</a>
 
 ## 🚀 Rodando o Projeto
 
@@ -62,7 +61,7 @@ $ cd rocketseat-fundamentos-reactjs
 $ npm install | yarn install
 ```
 
-### ☕ Usando IgniteFeed
+### ☕ Usando Ignite Feed
 
 Para usar <Ignite Feed>, inicie o projeto com:
 
