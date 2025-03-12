@@ -1,8 +1,81 @@
-# React + Vite
+<h1 align="center">Ignite Feed</h1>
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+    <img src="./src/assets/ignite-feed.gif">
+</p>
 
-Currently, two official plugins are available:
+> Projeto de estudo realizado durante a formação de ReactJS da Rocketseat.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
+
+### 🛠️ Tecnologias
+
+- **React 18.3.1** • Biblioteca para construção de interfaces declarativas.
+
+- **TypeScript 5.4** • Superset do JavaScript com tipagem estática.
+
+- **Vite 6.0.5** • Ferramenta de build.
+
+- **ESLint** • Ferramenta para análise e padronização de código.
+
+- **Phosphor React** • Biblioteca de ícones personalizáveis.
+
+- **Date-fns** • Biblioteca para manipulação de datas.
+
+### ⚡ Funcionalidades:
+
+- 📋 Listagem de Posts
+
+- ➕ Adição de novos comentários
+
+- ❌ Exclusão de comentários
+
+- 👏🏻 Aplaudir comentários
+
+### 🎨 Protótipo:
+
+O protótipo do projeto pode ser acessado em:
+🔗 [https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6]
+
+## 🚀 Rodando o Projeto
+
+### 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você instalou a versão mais recente do `Node.js`
+- Você instalou um gerenciador de pacotes: `npm` ou `yarn`.
+
+### 📦 Instalando as Dependências
+
+```bash
+# Clone o repositório:
+$ git clone https://github.com/gabrielimoreira/rocketseat-fundamentos-reactjs.git
+
+# Acesse a pasta do projeto:
+$ cd rocketseat-fundamentos-reactjs
+
+# Instale as dependências:
+$ npm install | yarn install
+```
+
+### ☕ Usando IgniteFeed
+
+Para usar <Ignite Feed>, inicie o projeto com:
+
+```
+npm run dev | yarn dev
+```
+
+> Normalmente, a aplicação estará disponível em: ➡️ http://localhost:5173/
+
+### 🔍 Verificar o Linter
+
+Para garantir que o código segue as boas práticas:
+
+```
+npm run lint
+```
