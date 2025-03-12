@@ -52,18 +52,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```bash
 # Clone o repositório:
-$ git clone https://github.com/gabrielimoreira/rocketseat-fundamentos-reactjs.git
+git clone https://github.com/gabrielimoreira/rocketseat-fundamentos-reactjs.git
 
 # Acesse a pasta do projeto:
-$ cd rocketseat-fundamentos-reactjs
+cd rocketseat-fundamentos-reactjs
 
 # Instale as dependências:
-$ npm install | yarn install
+npm install | yarn install
 ```
 
 ### ☕ Usando Ignite Feed
 
-Para usar <Ignite Feed>, inicie o projeto com:
+Para rodar, inicie o projeto com:
 
 ```
 npm run dev | yarn dev
