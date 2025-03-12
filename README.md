@@ -15,8 +15,6 @@ Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na for
 
 - **React 18.3.1** • Biblioteca para construção de interfaces declarativas.
 
-- **TypeScript 5.4** • Superset do JavaScript com tipagem estática.
-
 - **Vite 6.0.5** • Ferramenta de build.
 
 - **ESLint** • Ferramenta para análise e padronização de código.
