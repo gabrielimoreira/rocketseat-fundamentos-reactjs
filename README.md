@@ -12,11 +12,27 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
+Este projeto foi desenvolvido durante o módulo de **"Fundamentos do ReactJS"** na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
 
-### 🎨 Protótipo:
+Trata-se de uma aplicação de feed interativo onde os usuários podem visualizar e interagir com publicações.
+
+### 🎨 Protótipo
 
 O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6" target="_blank">Figma</a>
+
+
+### ⚡ Funcionalidades
+
+O projeto conta com diversas funcionalidades, como:
+
+- 📋 Listagem de Posts
+
+- ➕ Adição de novos comentários
+
+- ❌ Exclusão de comentários
+
+- 👏🏻 Aplaudir comentários
+
 
 ### 🛠️ Tecnologias
 
@@ -30,15 +46,7 @@ O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.co
 
 - **Date-fns** • Biblioteca para manipulação de datas.
 
-### ⚡ Funcionalidades:
 
-- 📋 Listagem de Posts
-
-- ➕ Adição de novos comentários
-
-- ❌ Exclusão de comentários
-
-- 👏🏻 Aplaudir comentários
 
 
 ## 🚀 Rodando o Projeto
@@ -54,10 +62,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```bash
 # Clone o repositório:
-git clone https://github.com/gabrielimoreira/rocketseat-fundamentos-reactjs.git
+git clone https://github.com/gabrielimoreira/rocketseat-ignite-feed.git
 
 # Acesse a pasta do projeto:
-cd rocketseat-fundamentos-reactjs
+cd rocketseat-ignite-feed
 
 # Instale as dependências:
 npm install | yarn install
